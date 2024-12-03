@@ -1,3 +1,9 @@
+## Understanding Lacrosse Game Dynamics through Data
+# Introduction
+My aim in this part of the project was to apply data science techniques to develop a method to enrich lacrosse data with the positions played by a given player in a given game. Currently, only the players in the starting line up receive a player position during scorekeeping, leaving the majority of players who see the field without one. This builds on techniques like that of Charlie Jackson for predicting football(soccer) player positions to predict a player’s position based on their statistics for that game. Charlie only predicted two positions, whereas my model does four. To take this a step further, the same statistics can be used to cluster players based on the respective feature labels.
+
+See LaxLens: Player Predictions file for full presentation.
+
 ## Setup & Installation
 1. Clone the repository
 ```
