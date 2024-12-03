@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+scikit-learn
+spacy
+scattertext
+pyvirtualdisplay
+IPython
+psycopg2-binary
+python-dotenv
+pyarrow
+networkx
+trueskill
+altair
