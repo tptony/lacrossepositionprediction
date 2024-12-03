@@ -1,7 +1,7 @@
 ## Setup & Installation
 1. Clone the repository
 ```
-git clone git@github.com:matt-codaio/lax-wordsmith.git
+git clone ...
 ```
 
 2. Setup your environment
